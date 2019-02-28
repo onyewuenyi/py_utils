@@ -8,7 +8,7 @@ groups = {
     "clk": [],
     "gcdn": []
 } 
-STDLIB_CELL_PREFIX = "ec0" # project specific 
+STDLIB_CELL_PREFIX = "XXX" # project specific 
 
 
 def is_gzip(filepath):
